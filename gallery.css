@@ -6,7 +6,6 @@ body {
     justify-content: center;
     max-height: 100vh;
     background-color: black;
-    font-family: Arial, sans-serif;
 }
 
 .gallery-container {
@@ -55,7 +54,6 @@ body {
 .read-more {
     color: #00aaff;
     display: none;
-    /* margin-top: 10px; */
 }
 
 .image-container.hover .background-image {
@@ -68,10 +66,27 @@ body {
 }
 
 @media (max-width: 768px) {
-    .overlay-text {
+    /* .overlay-text {
         display: none;
+        height: 100%;
     }
     .image-container.hover .read-more {
         display: none;
+    } */
+    body {
+        flex-direction: row; 
+        width: 100vh;
+    }
+
+    .image-container {
+        height: 100vh; 
+    }
+
+    .overlay-text {
+        display: none;
+    }
+
+    .image-container.hover .read-more {
+        display: none !important;
     }
 }
