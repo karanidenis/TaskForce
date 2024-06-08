@@ -14,6 +14,18 @@ e.g ```brave index.html``` for brave browser
 - [x] Responsive design
 - Hover effect on images to see larger TEXT
 
+# Problem Solving
+This part tests your logical thinking and coding aptitude. 
+
+## Test
+To run the code, you need to have Node.js installed on your machine.
+1. Navigate to the `Challenge` directory
+2. Run the following command
+```bash
+node arrayMap.js
+```
+3. The output will be displayed on the console
+
 ## Contributing
 Pull requests are welcome.
 
