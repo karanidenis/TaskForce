@@ -21,11 +21,7 @@ Pull requests are welcome.
 [MIT](https://choosealicense.com/licenses/mit/) The MIT License (MIT)
 
 ## Author
-- [Karani Denis](karanidenisw@gmail.com) - Software Developer
+- [Karani Denis](mailto:karanidenisw@gmail.com) - Software Developer
 
 ## Acknowledgements
 - TaskForce
-
-<!-- ## Live Link
-- [Live Link](https://karanidenis.github.io/TaskForce/) - TaskForce Interactive Photo Gallery -->
-
