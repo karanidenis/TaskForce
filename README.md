@@ -19,7 +19,7 @@ This part tests your logical thinking and coding aptitude.
 
 ## Test
 To run the code, you need to have Node.js installed on your machine.
-1. Navigate to the `Challenge` directory
+1. Navigate to the `Challenges` directory
 2. Run the following command
 ```bash
 node arrayMap.js
