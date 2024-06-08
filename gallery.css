@@ -66,13 +66,6 @@ body {
 }
 
 @media (max-width: 768px) {
-    /* .overlay-text {
-        display: none;
-        height: 100%;
-    }
-    .image-container.hover .read-more {
-        display: none;
-    } */
     body {
         flex-direction: row; 
         width: 100vh;
