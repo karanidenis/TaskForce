@@ -26,6 +26,6 @@ Pull requests are welcome.
 ## Acknowledgements
 - TaskForce
 
-## Live Link
-- [Live Link](https://karanidenis.github.io/TaskForce/) - TaskForce Interactive Photo Gallery
+<!-- ## Live Link
+- [Live Link](https://karanidenis.github.io/TaskForce/) - TaskForce Interactive Photo Gallery -->
 
